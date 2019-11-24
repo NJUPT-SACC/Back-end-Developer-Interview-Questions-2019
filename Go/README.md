@@ -5,5 +5,6 @@
 5. 伴随着算法的比重上升,面试手写代码也开始普及,所以代码风格也要适当注意一些,一些不好的编程习惯要及时改掉.
 6. GO语言的入门可以看[Go 系列教程（Golang tutorial series）](https://studygolang.com/subject/2)
 7. GO语言的进阶可以看[Go语言高级编程](https://item.jd.com/12647494.html)
-8. GO语言和java比,生态不如java发达,缺乏Spring这样的统治级框架,复习的时候这方面知识会比java要轻松,但是GO的后端服务都是微服务化的,所以面试会更倾向于问一些这方面的知识,比如docker和k8s之类的知识.
-9. [GO语言中文网](https://studygolang.com/)是一个不错的网站,可以多去逛逛
+8. 基础知识的学习可以参考cyc2018的[CS-Notes](https://cyc2018.github.io/CS-Notes/)的总结,算法方面有一个[LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)可以参考
+9. GO语言和java比,生态不如java发达,缺乏Spring这样的统治级框架,复习的时候这方面知识会比java要轻松,但是GO的后端服务都是微服务化的,所以面试会更倾向于问一些这方面的知识,比如docker和k8s之类的知识.
+10. [GO语言中文网](https://studygolang.com/)是一个不错的网站,可以多去逛逛
